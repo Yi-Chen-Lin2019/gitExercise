@@ -22,6 +22,7 @@
   <li>Cookies</li>
   <li>plate</li>
 <li>glass</li>
+<li>chocolate</li>
 </ul>
 
 </body>
